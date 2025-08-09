@@ -6,7 +6,7 @@ A Python Tkinter desktop application that predicts household energy consumption 
 ---
 
 ## ​ Preview
-![App Screenshot](screenshot.png)  
+![App Screenshot](ss.png)  
 *(Replace with an actual screenshot)*
 
 ---
